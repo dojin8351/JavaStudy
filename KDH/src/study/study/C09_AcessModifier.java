@@ -55,3 +55,6 @@
 //		test1.method1(); // public
 //	}
 //}
+package study;
+
+
