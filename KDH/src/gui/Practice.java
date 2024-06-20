@@ -11,7 +11,7 @@ public class Practice {
 		JFrame frame = new JFrame();
 		JButton button1 = new JButton();
 		
-        ImageIcon icon = new ImageIcon("image/나혼랩.png");
+        ImageIcon icon = new ImageIcon("image/메인페이지.png");
         JLabel label = new JLabel(icon);
         
         button1.setBounds(325, 502,100,50);
