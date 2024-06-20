@@ -16,7 +16,7 @@ public class Practice {
         
         button1.setBounds(325, 502,100,50);
         
-        frame.add(button1);
+        //frame.add(button1);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.add(label);  // 라벨을 프레임에 추가
         frame.pack();  // 프레임 크기를 내용물에 맞게 조정
